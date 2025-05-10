@@ -7,3 +7,4 @@ db/
 .env
 .DS_Store
 env.sample
+.env.local
